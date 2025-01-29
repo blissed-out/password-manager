@@ -1,5 +1,5 @@
-#passman
+# passman
 Basically store password in local storage of the browser
 
-#passman-mongo
+# passman-mongo
 Basically uses mongodb as a database to store passwords
